@@ -3,7 +3,7 @@
 " Version:      1.0
 
 " Globals
-let g:resize_count = 1
+let g:resize_count = 5
 
 "Is<direction>Most Boolean Functions
 function! IsRightMost()
